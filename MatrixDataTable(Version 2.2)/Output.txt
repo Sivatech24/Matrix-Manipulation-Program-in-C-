@@ -1,0 +1,176 @@
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 1
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the value to be inserted at [0:0]: 1
+Value inserted successfully.
+Enter the value to be inserted at [0:1]: 2
+Value inserted successfully.
+Enter the value to be inserted at [0:2]: 4
+Value inserted successfully.
+Enter the value to be inserted at [1:0]: 8
+Value inserted successfully.
+Enter the value to be inserted at [1:1]: 16
+Value inserted successfully.
+Enter the value to be inserted at [1:2]: 32
+Value inserted successfully.
+Enter the value to be inserted at [2:0]: 64
+Value inserted successfully.
+Enter the value to be inserted at [2:1]: 128
+Value inserted successfully.
+Enter the value to be inserted at [2:2]: 256
+Value inserted successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
++-----------------------------------------------------------------------------------------------------+
+|                                1|                                2|                                4|
++-----------------------------------------------------------------------------------------------------+
+|                                8|                               16|                               32|
++-----------------------------------------------------------------------------------------------------+
+|                               64|                              128|                              256|
++-----------------------------------------------------------------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 3
+Value to be deleted: 
+Enter the row value: 0
+Enter the column value: 0
+Value deleted successfully.
+For continue the delete value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after deletion:
++-----------------------------------------------------------------------------------------------------+
+|                                0|                                2|                                4|
++-----------------------------------------------------------------------------------------------------+
+|                                8|                               16|                               32|
++-----------------------------------------------------------------------------------------------------+
+|                               64|                              128|                              256|
++-----------------------------------------------------------------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 2
+Enter the Value to be updated: 1
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
++-----------------------------------------------------------------------------------------------------+
+|                                1|                                2|                                4|
++-----------------------------------------------------------------------------------------------------+
+|                                8|                               16|                               32|
++-----------------------------------------------------------------------------------------------------+
+|                               64|                              128|                              256|
++-----------------------------------------------------------------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 5
+Matrix data saved to int_matrix_data.txt successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 7
+Sum of Matrix: 511
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 8
+Average of Matrix: 56.7778
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 9
+Enter the value to search in the matrix: 512
+Value found in the matrix.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 10
+Exiting...

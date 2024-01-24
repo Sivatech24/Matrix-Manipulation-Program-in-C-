@@ -1,0 +1,226 @@
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 1
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the value to be inserted at [0:0]: 24
+Value inserted successfully.
+Enter the value to be inserted at [0:1]: 32
+Value inserted successfully.
+Enter the value to be inserted at [0:2]: 64
+Value inserted successfully.
+Enter the value to be inserted at [1:0]: 128
+Value inserted successfully.
+Enter the value to be inserted at [1:1]: 256
+Value inserted successfully.
+Enter the value to be inserted at [1:2]: 512
+Value inserted successfully.
+Enter the value to be inserted at [2:0]: 1024
+Value inserted successfully.
+Enter the value to be inserted at [2:1]: 24 048
+Value inserted successfully.
+Enter the value to be inserted at [2:2]: 4096
+Value inserted successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 5
+Matrix data saved to int_matrix_data.txt successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 2
+Enter the Value to be updated: 16
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0 1
+Enter the Value to be updated: 8
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
++-----------------------------------------------+
+|              8|             32|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 3
+Enter the Value to be deleted: Enter the row value: 0
+Enter the column value: 0
+Value deleted successfully.
+For continue the delete value
+0. Exit
+1. Continue
+Enter the choice: 0 1
+Enter the Value to be deleted: Enter the row value: 0
+Enter the column value: 1
+Value deleted successfully.
+For continue the delete value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after deletion:
++-----------------------------------------------+
+|              0|              0|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 4
+Matrix:
++-----------------------------------------------+
+|              0|              0|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 2
+Enter the Value to be updated: 16
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 1
+Enter the Value to be updated: 0 0
+Enter the row value: 0
+Enter the column value: 1
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 1
+Enter the Value to be updated: 16
+Enter the row value: 0
+Enter the column value: 1
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 1
+Enter the Value to be updated: 16
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 1
+Enter the Value to be updated: 32
+Enter the row value: 0
+Enter the column value: 1
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
++-----------------------------------------------+
+|             16|             32|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 6
+Matrix data loaded from int_matrix_data.txt successfully.
+
+Loaded Integer Matrix:
++-----------------------------------------------+
+|             24|             32|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 4
+Matrix:
++-----------------------------------------------+
+|             16|             32|             64|
++-----------------------------------------------+
+|            128|            256|            512|
++-----------------------------------------------+
+|           1024|           2048|           4096|
++-----------------------------------------------+
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Exit
+Enter the option: 7
+Exiting...

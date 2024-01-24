@@ -1,0 +1,388 @@
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 1
+Enter the number of rows: 5
+Enter the number of columns: 5
+Enter the value to be inserted at [0:0]: 1
+Value inserted successfully.
+Enter the value to be inserted at [0:1]: 2
+Value inserted successfully.
+Enter the value to be inserted at [0:2]: 4
+Value inserted successfully.
+Enter the value to be inserted at [0:3]: 8
+Value inserted successfully.
+Enter the value to be inserted at [0:4]: 16
+Value inserted successfully.
+Enter the value to be inserted at [1:0]: 32
+Value inserted successfully.
+Enter the value to be inserted at [1:1]: 64
+Value inserted successfully.
+Enter the value to be inserted at [1:2]: 128
+Value inserted successfully.
+Enter the value to be inserted at [1:3]: 256
+Value inserted successfully.
+Enter the value to be inserted at [1:4]: 512
+Value inserted successfully.
+Enter the value to be inserted at [2:0]: 1024
+Value inserted successfully.
+Enter the value to be inserted at [2:1]: 2048
+Value inserted successfully.
+Enter the value to be inserted at [2:2]: 4096
+Value inserted successfully.
+Enter the value to be inserted at [2:3]: 8192
+Value inserted successfully.
+Enter the value to be inserted at [2:4]: 16384
+Value inserted successfully.
+Enter the value to be inserted at [3:0]: 32768
+Value inserted successfully.
+Enter the value to be inserted at [3:1]: 65536
+Value inserted successfully.
+Enter the value to be inserted at [3:2]: 131072
+Value inserted successfully.
+Enter the value to be inserted at [3:3]: 262144
+Value inserted successfully.
+Enter the value to be inserted at [3:4]: 524288
+Value inserted successfully.
+Enter the value to be inserted at [4:0]: 1048576
+Value inserted successfully.
+Enter the value to be inserted at [4:1]: 2097152
+Value inserted successfully.
+Enter the value to be inserted at [4:2]: 4194304
+Value inserted successfully.
+Enter the value to be inserted at [4:3]: 8388608
+Value inserted successfully.
+Enter the value to be inserted at [4:4]: 16777216
+Value inserted successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 5
+Matrix data saved to int_matrix_data.txt successfully.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 2
+Enter the Value to be updated: 0
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       0       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       0       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 2
+Enter the Value to be updated: 1
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 3
+Value to be deleted: 
+Enter the row value: 0
+Enter the column value: 0
+Value deleted successfully.
+For continue the delete value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after deletion:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       0       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       0       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 2
+Enter the Value to be updated: 0
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 4
+Enter the Value to be updated: 0
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 1
+Enter the Value to be updated: 1
+Enter the row value: 0
+Enter the column value: 0
+Value updated successfully.
+For continue the update value
+0. Exit
+1. Continue
+Enter the choice: 0
+
+Matrix after update:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 4
+Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 7
+Sum of Matrix: 33554431
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 8
+Average of Matrix: 1.34218e+06
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 9
+Enter the value to search in the matrix: 512
+Value found in the matrix.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 9
+Enter the value to search in the matrix: 64
+Value found in the matrix.
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 6
+Matrix data loaded from int_matrix_data.txt successfully.
+
+Loaded Integer Matrix:
+            Col 0    Col 1    Col 2    Col 3    Col 4
+    Row 0       1       2       4       8      16
+    Row 1      32      64     128     256     512
+    Row 2    1024    2048    4096    8192   16384
+    Row 3   32768   65536  131072  262144  524288
+    Row 4 1048576 2097152 4194304 838860816777216
+Options:
+1. Create
+2. Update
+3. Delete
+4. Display
+5. SaveToTextFile
+6. LoadfromTextFile
+7. Sum of Matrix
+8. Average of Matrix
+9. Search Value
+10. Exit
+Enter the option: 10
+Exiting...
